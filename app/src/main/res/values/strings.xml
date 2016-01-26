@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyImageEditor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dis_rem">disRemActivity</string>
+    <string name="title_activity_col_cor">colCorActivity</string>
+    <string name="title_activity_con_enh">conEnhActivity</string>
+    <string name="title_activity_edg_det">edgDetActivity</string>
+    <string name="title_activity_camera">cameraActivity</string>
+</resources>

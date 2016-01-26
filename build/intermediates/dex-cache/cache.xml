@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-1190219bb12fa1e157ff917de2d313cda9ac2657.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\classes-8eb9da4ef55c88fe3faa9bb92f7450625618c310.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\classes-f7a17f39edc9b8253024bb6c38024901d967f1b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\classes-2c5d34f5ad9e16352df466c94ba073b702e406cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\MyImageEditor\openCVLibrary2411\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4a927836e5440a647ead9d535b78f01db7060d6">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\classes-9596455940cd38600a5020615f43cbb6ccd82143.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\classes-0b12d3fc3079c52a6d9ec13ce4c6cb634b81426d.jar" />
+    </item>
+    <item
+        jar="C:\Users\zyang_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\zyang_000\AndroidStudioProjects\MyImageEditor\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-5ec414363228ed1320587d0145b37a36b8902cb0.jar" />
+    </item>
+
+</items>
